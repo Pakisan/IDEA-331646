@@ -1,0 +1,17 @@
+{
+  "type": "record",
+  "namespace": "accountService",
+  "name": "UserSignedUpPayload",
+  "fields": [
+    {
+      "name": "displayName",
+      "type": "string",
+      "doc": "Name of the user"
+    },
+    {
+      "name": "email",
+      "type": "string",
+      "doc": "Email of the user"
+    }
+  ]
+}

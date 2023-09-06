@@ -1,0 +1,25 @@
+asyncapi: 2.5.0
+info:
+  title: IDEA-331646
+  version: 1.0.0
+  description: Reproduces IDEA-331646
+channels:
+  user/signedup:
+    subscribe:
+      message:
+        $ref: "#/components/messages/UserSignedUpAvro"
+components:
+  messages:
+    UserSignedUpAvro:
+      schemaFormat: "application/vnd.apache.avro;version=1.9.0"
+      payload:
+        type: record
+        namespace: accountService
+        name: UserSignedUpPayload
+        fields:
+          - name: displayName
+            type: string
+            doc: Name of the user
+          - name: email
+            type: string
+            doc: Email of the user

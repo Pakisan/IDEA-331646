@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac23a705-6621-419e-82d5-e074240a406b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service - error - external reference to UserSignedUp Avro Schema.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service - error - external reference to UserSignedUp Json Schema inside other spec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service - error - external reference to UserSignedUp Json Schema.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service - ok - local reference to UserSignedUp Avro Schema.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service - ok - local reference to UserSignedUp Json Schema.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messages/UserSignedUp.avsc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messages/UserSignedUp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messages/spec to re-use.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/pavelbo/IdeaProjects/IDEA-331646",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac23a705-6621-419e-82d5-e074240a406b" name="Changes" comment="" />
+      <created>1694003502018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694003502018</updated>
+      <workItem from="1694003503125" duration="1985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

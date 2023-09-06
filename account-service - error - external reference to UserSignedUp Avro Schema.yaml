@@ -1,0 +1,12 @@
+asyncapi: 2.4.0
+info:
+  title: IDEA-331646
+  version: 1.0.0
+  description: Reproduces IDEA-331646
+channels:
+  user/signedup:
+    subscribe:
+      message:
+        schemaFormat: "application/vnd.apache.avro;version=1.9.0"
+        payload:
+          $ref: "./messages/UserSignedUp.avsc"

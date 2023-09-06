@@ -1,0 +1,10 @@
+payload:
+  type: object
+  properties:
+    displayName:
+      type: string
+      description: (external schema) Name of the user
+    email:
+      type: string
+      format: email
+      description: (external schema) Email of the user
